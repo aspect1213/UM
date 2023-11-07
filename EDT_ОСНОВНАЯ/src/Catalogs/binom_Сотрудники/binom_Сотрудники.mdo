@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fed1208d-b6ee-4164-8457-a268755489b7">
+  <producedTypes>
+    <objectType typeId="f5192eec-bc87-4570-aca7-0ea76bb7839c" valueTypeId="874df55c-a45d-4ca3-bfb7-c0c82e2f1266"/>
+    <refType typeId="fd04511c-65df-413d-8fe6-07669bf1e155" valueTypeId="d8f35379-12c4-4e94-b5d1-f2503645ef00"/>
+    <selectionType typeId="d89d2595-5405-4c29-8b6e-db076416b1ff" valueTypeId="8472dee8-4ccf-4c54-8140-cc626bd9ad33"/>
+    <listType typeId="e1001404-37be-41b1-8470-348f0c43ce39" valueTypeId="121153ba-062c-4ffe-9d2a-c3507b9da3cb"/>
+    <managerType typeId="a5fe78c6-c19c-461e-8780-56aa1ec88d5b" valueTypeId="d8df25ba-fd30-458a-87d4-90b4f72cd825"/>
+  </producedTypes>
+  <name>binom_Сотрудники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Binom сотрудники</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.binom_Сотрудники.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.binom_Сотрудники.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
